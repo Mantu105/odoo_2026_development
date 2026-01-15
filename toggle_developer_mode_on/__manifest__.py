@@ -14,6 +14,9 @@
             "toggle_developer_mode_on/static/src/xml/debug_mode.xml",
         ],
     },
+    'images': ['static/description/banner.png'],
     'installable': True,
     'application': True,
+    'auto_install': False,
+    'license': 'LGPL-3',
 }
